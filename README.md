@@ -17,8 +17,8 @@ $ sqlite3 Web\ Data < TestWebData.sql
 ## Copy DB to a profile folder
 
 ```shell
-$ mkdir -p profiles/ad-hoc-profile
-$ cp sqlite3 Web\ Data < TestWebData.sql
+$ mkdir -p ./profiles/ad-hoc-profile
+$ cp Web\ Data ./profiles/ad-hoc-profile/
 ```
 
 ## Start chromium browser with ad-hoc-profile

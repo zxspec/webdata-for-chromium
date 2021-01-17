@@ -247,6 +247,8 @@ INSERT INTO "keywords" VALUES (4,'Yahoo!','yahoo.com','https://search.yahoo.com/
 INSERT INTO "keywords" VALUES (5,'DuckDuckGo','duckduckgo.com','https://duckduckgo.com/favicon.ico','https://duckduckgo.com/?q={searchTerms}',1,'',0,0,'UTF-8','https://duckduckgo.com/ac/?q={searchTerms}&type=list',92,0,0,'485bf7d3-0215-45af-87dc-538868000092','[]','','','','','https://duckduckgo.com/chrome_newtab',0,0);
 INSERT INTO "keywords" VALUES (6,'Ecosia','ecosia.org','https://cdn.ecosia.org/assets/images/ico/favicon.ico','https://www.ecosia.org/search?q={searchTerms}&addon=opensearch',1,'',0,0,'UTF-8','https://ac.ecosia.org/autocomplete?q={searchTerms}&type=list',101,0,0,'485bf7d3-0215-45af-87dc-538868000101','[]','','','','','',0,0);
 INSERT INTO "credit_cards" VALUES ('aba9fb1d-f7e5-43e9-95a8-024790a2f630','accepted',10,2030,'4111111111111111',1610494633,'Chrome settings',2,1610494649,'','');
+INSERT INTO "credit_cards" VALUES ('c64eeb15-9b36-43ff-88df-0748da7b9617','accepted',03,2030,'370000000000002',1610494633,'Chrome settings',2,1610494649,'','');
+INSERT INTO "credit_cards" VALUES ('81dd93dd-8250-4390-af56-b328d663559e','accepted',03,2030,'5555444433331111',1610494633,'Chrome settings',2,1610494649,'','');
 INSERT INTO "autofill_profiles" VALUES ('e2171ee4-d98f-411b-b2f6-0b32184f1931','Adidas','Main Str 1','','Dublin','','D20 AA30','','IE',1610478687,'Chrome settings','',2,1610478723,0,0);
 INSERT INTO "autofill_profiles" VALUES ('58024892-7e3d-46bf-9403-d098904b3389','Adidas','Hoogoorddreef 9-A
 Adidas HQ','','Amsterdam','','1101 BA','','NL',1610494468,'Chrome settings','',9,1610494518,0,0);
